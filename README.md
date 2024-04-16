@@ -38,5 +38,3 @@ and other amenities.
 
 10. Price: Price of the flight for a complete journey including all the expenses
 before onboarding.
-
-![Classification%20Report.png](attachment:Classification%20Report.png) 
